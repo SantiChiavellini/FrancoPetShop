@@ -1,0 +1,144 @@
+
+/** Manejo de Materialize **/
+html {
+    font-family: Karla', sans-serif;
+}
+
+.circle {
+    height: 10vh;
+}
+
+.dropdown-content {
+    top: 70% !important;
+  }
+
+.card-title {
+    font-weight: bolder !important;
+}
+
+
+
+.card-panel {
+    display: inline-block;
+    width:  100%;
+}
+
+span{
+    font-weight: 700;
+    
+}
+
+span.black-text {
+    font-weight: 100;
+    line-height: 1;
+}
+
+span.activator {
+    font-weight: 300 !important;
+    font-size: 3vh !important;
+    line-height: 1 !important;
+}
+
+p.flow-text {
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: x-large;
+}
+
+p {
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: large;
+}
+
+
+.card {
+    border-radius: 20px;
+    min-height: 53vh!important;
+}
+
+.card.horizontal {
+    min-height: unset!important;
+}
+
+img {
+    border-radius: 20px !important;
+}
+
+span.white {
+    border-radius: 5px;
+}
+
+iframe {
+    max-width: 100%;
+    height: auto;
+}
+
+#contenedorMain {
+    background-image: url(/assets/Logos/BeFunky-collage.jpg);
+    background-size: 300px;
+}
+/* .headerImg {
+    min-height: 84vh;
+    background-image: url(/assets/HappyPet/4k-giant-schnauzer-flying-dog-dogs-black-dog-besthqwallpapers.com-1536x864.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} */
+
+/* div.barraDivisoria {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(252, 252, 252, 0.959);
+    width: 100%;
+    max-height: 7vh;
+    padding: 1vh 4vw;
+    
+}
+ */
+/* .barraDivisoria h1{
+    font-size: 2vw;
+    text-align: center;
+    justify-content: center;
+    color: maroon;
+    text-shadow: black;
+}
+
+.redes {
+    height: 6vh;
+}
+
+#redes {
+    height: 6vh;
+}
+ */
+
+/** Main **/
+
+
+/* .contenedorMainGeneral{
+    display: flex;
+    flex-direction: row;
+    background-color: blueviolet;
+}
+ */
+/* .barraNavegacion {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2vh 1vw;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    
+}
+ */
+
+/* .contenedorInfoPrincipal {
+    display: flex;
+    flex-direction: column;
+    padding: 1vh 1vw;
+}
+ */
