@@ -79,7 +79,7 @@ iframe {
 }
 
 #contenedorMain {
-    background-image: url(/assets/Logos/BeFunky-collage.jpg);
+    background-image: url(../assets/Logos/BeFunky-collage.jpg);
     background-size: 300px;
 }
 /* .headerImg {
