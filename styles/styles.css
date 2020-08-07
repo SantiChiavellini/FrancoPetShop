@@ -57,6 +57,10 @@ p {
     min-height: 60vh!important;
 }
 
+#tarjetasMain {
+    min-height: 80vh!important;
+}
+
 .card.horizontal {
     min-height: unset!important;
 }
